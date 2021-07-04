@@ -1,0 +1,31 @@
+.card {
+  padding: 75px;
+  margin: auto;
+}
+h2 {
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgb(0, 0, 0, 0.2)
+}
+.card-img-top {
+    width: 250px;
+    height: 250px;
+}
+.card-body {
+    border-bottom: 1px solid rgb(0, 0, 0, 0.2)
+}
+.navbar {
+    border-bottom: 1px solid rgb(0, 0, 0, 0.2)
+}
+.btn {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 150px;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+h1 {
+    margin: auto;
+    text-align: center;
+}
